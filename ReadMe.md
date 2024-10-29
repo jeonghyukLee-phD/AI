@@ -18,3 +18,7 @@ b. Hugging Face Token 설정 페이지-Access Tokens에 접속하여 Create New 
 ```bash
 huggingface-cli login
 ```
+6. 스크립트 실행
+```bash
+python src/"fileName".py
+```
