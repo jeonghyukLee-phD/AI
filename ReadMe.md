@@ -8,7 +8,7 @@ source myenv/bin/activate
 ```
 3. 선행모듈 설치
 ```bash
-pip install torch transformers datasets accelerate sentencepiece protobuf
+pip install torch transformers datasets accelerate sentencepiece protobuf peft
 ```
 4. Hugging Face Access token 받기
 a. 모델 레포지토리에 접근하려면, 예를 들어, LLaMA-2-7b-hf 페이지(https://huggingface.co/meta-llama/Llama-2-7b-hf)에서 Access Request 버튼을 클릭해 접근 권한을 요청합니다.
